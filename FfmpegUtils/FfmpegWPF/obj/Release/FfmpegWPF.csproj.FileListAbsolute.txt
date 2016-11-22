@@ -1,0 +1,13 @@
+C:\C#\projects\FfmpegUtils\FfmpegWPF\bin\Release\FfmpegWPF.exe.config
+C:\C#\projects\FfmpegUtils\FfmpegWPF\bin\Release\FfmpegWPF.exe
+C:\C#\projects\FfmpegUtils\FfmpegWPF\bin\Release\FfmpegWPF.pdb
+C:\C#\projects\FfmpegUtils\FfmpegWPF\obj\Release\MainWindow.baml
+C:\C#\projects\FfmpegUtils\FfmpegWPF\obj\Release\MainWindow.g.cs
+C:\C#\projects\FfmpegUtils\FfmpegWPF\obj\Release\App.g.cs
+C:\C#\projects\FfmpegUtils\FfmpegWPF\obj\Release\FfmpegWPF_MarkupCompile.cache
+C:\C#\projects\FfmpegUtils\FfmpegWPF\obj\Release\FfmpegWPF.g.resources
+C:\C#\projects\FfmpegUtils\FfmpegWPF\obj\Release\FfmpegWPF.Properties.Resources.resources
+C:\C#\projects\FfmpegUtils\FfmpegWPF\obj\Release\FfmpegWPF.csproj.GenerateResource.Cache
+C:\C#\projects\FfmpegUtils\FfmpegWPF\obj\Release\FfmpegWPF.exe
+C:\C#\projects\FfmpegUtils\FfmpegWPF\obj\Release\FfmpegWPF.pdb
+C:\C#\projects\FfmpegUtils\FfmpegWPF\obj\Release\FfmpegWPF.csprojResolveAssemblyReference.cache

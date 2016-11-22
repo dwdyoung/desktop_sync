@@ -1,0 +1,16 @@
+﻿<Window x:Class="FfmpegWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="617" Width="1057">
+    <Grid>
+        <Button x:Name="openFileBt" Content="打开文件" HorizontalAlignment="Left" Margin="345,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Image x:Name="yuvImage" HorizontalAlignment="Left" Height="540" Margin="10,37,0,0" VerticalAlignment="Top" Width="1029"/>
+        <TextBox x:Name="h264filePath" HorizontalAlignment="Left" Height="23" Margin="10,9,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="330" Text="输入h264文件全路径"/>
+        <Button x:Name="receiveBt" Content="开启监听" HorizontalAlignment="Left" Margin="724,8,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+        <TextBox x:Name="addressTx" HorizontalAlignment="Left" Height="23" Margin="456,9,0,0" TextWrapping="Wrap" Text="239.0.0.1" VerticalAlignment="Top" Width="138"/>
+        <TextBox x:Name="portTx" HorizontalAlignment="Left" Height="23" Margin="599,8,0,0" TextWrapping="Wrap" Text="6666" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="sendBt" Content="发送自己的桌面" HorizontalAlignment="Left" Margin="804,8,0,0" VerticalAlignment="Top" Width="128" Click="Button_Click_3"/>
+        <Button x:Name="stopBt" Content="停止" HorizontalAlignment="Left" Margin="937,8,0,0" VerticalAlignment="Top" Width="102" Click="stopBt_Click"/>
+
+    </Grid>
+</Window>

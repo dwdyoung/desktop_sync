@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FfmpegUtils", "FfmpegUtils\FfmpegUtils.vcxproj", "{5C43F8EE-4228-48BD-9FDD-E192E29F2434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FfmpegWPF", "FfmpegWPF\FfmpegWPF.csproj", "{2759424B-65AC-42C1-BF71-4499915F5D00}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5C43F8EE-4228-48BD-9FDD-E192E29F2434} = {5C43F8EE-4228-48BD-9FDD-E192E29F2434}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C43F8EE-4228-48BD-9FDD-E192E29F2434}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{5C43F8EE-4228-48BD-9FDD-E192E29F2434}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{5C43F8EE-4228-48BD-9FDD-E192E29F2434}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{5C43F8EE-4228-48BD-9FDD-E192E29F2434}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5C43F8EE-4228-48BD-9FDD-E192E29F2434}.Debug|Win32.Build.0 = Debug|Win32
+		{5C43F8EE-4228-48BD-9FDD-E192E29F2434}.Release|Any CPU.ActiveCfg = Release|Win32
+		{5C43F8EE-4228-48BD-9FDD-E192E29F2434}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{5C43F8EE-4228-48BD-9FDD-E192E29F2434}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{5C43F8EE-4228-48BD-9FDD-E192E29F2434}.Release|Win32.ActiveCfg = Release|Win32
+		{5C43F8EE-4228-48BD-9FDD-E192E29F2434}.Release|Win32.Build.0 = Release|Win32
+		{2759424B-65AC-42C1-BF71-4499915F5D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2759424B-65AC-42C1-BF71-4499915F5D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2759424B-65AC-42C1-BF71-4499915F5D00}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2759424B-65AC-42C1-BF71-4499915F5D00}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2759424B-65AC-42C1-BF71-4499915F5D00}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{2759424B-65AC-42C1-BF71-4499915F5D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2759424B-65AC-42C1-BF71-4499915F5D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2759424B-65AC-42C1-BF71-4499915F5D00}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2759424B-65AC-42C1-BF71-4499915F5D00}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2759424B-65AC-42C1-BF71-4499915F5D00}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
