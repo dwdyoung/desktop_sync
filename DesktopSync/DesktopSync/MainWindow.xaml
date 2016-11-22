@@ -1,0 +1,14 @@
+﻿<Window x:Class="DesktopSync.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        
+        Title="MainWindow" Height="504" Width="772">
+    <Grid Margin="0,0,-144,2">
+        <Image x:Name="deskImage" HorizontalAlignment="Left" Height="{Binding ActualHeight, ElementName=rectangle, Mode=OneWay}" Margin="10,10,0,0" VerticalAlignment="Top" Width="{Binding ActualWidth, ElementName=window, Mode=OneWay}"/>
+        <Button x:Name="sendBt" Content="send broadcast" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="169" Click="SendBroadcast"/>
+        <Button x:Name="stopBt" Content="stop" HorizontalAlignment="Left" Margin="184,10,0,0" VerticalAlignment="Top" Width="191"  Click="StopBroadcast"/>
+        <Button x:Name="receiveBt" Content="receive broadcast" HorizontalAlignment="Left" Margin="583,10,0,0" VerticalAlignment="Top" Width="169" Click="ReceiveBroadcast"/>
+        <Button Content="test" HorizontalAlignment="Left" Margin="393,10,0,0" VerticalAlignment="Top" Width="167" Click="Test"/>
+
+    </Grid>
+</Window>

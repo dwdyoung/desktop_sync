@@ -1,0 +1,13 @@
+C:\C#\projects\DesktopSync\DesktopSync\bin\Release\DesktopSync.exe.config
+C:\C#\projects\DesktopSync\DesktopSync\bin\Release\DesktopSync.exe
+C:\C#\projects\DesktopSync\DesktopSync\bin\Release\DesktopSync.pdb
+C:\C#\projects\DesktopSync\DesktopSync\obj\Release\MainWindow.baml
+C:\C#\projects\DesktopSync\DesktopSync\obj\Release\MainWindow.g.cs
+C:\C#\projects\DesktopSync\DesktopSync\obj\Release\App.g.cs
+C:\C#\projects\DesktopSync\DesktopSync\obj\Release\DesktopSync_MarkupCompile.cache
+C:\C#\projects\DesktopSync\DesktopSync\obj\Release\DesktopSync.g.resources
+C:\C#\projects\DesktopSync\DesktopSync\obj\Release\DesktopSync.Properties.Resources.resources
+C:\C#\projects\DesktopSync\DesktopSync\obj\Release\DesktopSync.csproj.GenerateResource.Cache
+C:\C#\projects\DesktopSync\DesktopSync\obj\Release\DesktopSync.exe
+C:\C#\projects\DesktopSync\DesktopSync\obj\Release\DesktopSync.pdb
+C:\C#\projects\DesktopSync\DesktopSync\obj\Release\DesktopSync.csprojResolveAssemblyReference.cache
